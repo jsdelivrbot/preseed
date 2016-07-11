@@ -13,3 +13,9 @@ For Debian 8:
 ```
 auto url=https://cdn.rawgit.com/breauxaj/preseed/master/debian8.cfg
 ```
+
+For Ubuntu 16:
+
+```
+auto url=https://cdn.rawgit.com/breauxaj/preseed/master/ubuntu16.cfg
+```
